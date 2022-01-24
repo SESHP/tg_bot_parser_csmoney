@@ -1,0 +1,5 @@
+aiogram
+asyncio
+json
+fake_user
+requests
